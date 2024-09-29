@@ -9,6 +9,8 @@ Model 3 - Test Mean Squared Error: 0.0688
 Model 4 - Test Mean Squared Error: 0.0493
 
  This generates an image named training_loss.png.
+ <img width="562" alt="image" src="https://github.com/user-attachments/assets/d31cc52d-c546-42b8-95df-a91edd4fb537">
+
   
   Next, run the following command to see the difference between regularized and non-regularized models.
 python linearwithreg.py
